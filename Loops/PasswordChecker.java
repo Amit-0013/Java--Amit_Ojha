@@ -1,3 +1,4 @@
+//  Create a program using do-while to find password checker until a valid password is entered
 package Loops;
 
 import java.util.Scanner;
