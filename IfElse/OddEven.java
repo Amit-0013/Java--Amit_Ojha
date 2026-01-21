@@ -1,7 +1,6 @@
 //Checking for odd or even.
 package IfElse;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class OddEven {

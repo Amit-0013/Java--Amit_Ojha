@@ -51,7 +51,7 @@ public class Book {
     }
 
     public static void main(String[] args) {
-        Book RichDad = new Book("Rich Dad" , "T.Kayosaki" , "101");
+        Book RichDad = new Book("Rich Dad" , "T.Kawasaki" , "101");
         Book AtomicHabits = new Book("102");
         Book Java = new Book("SunLabs" , "Oracle" , "103");
         RichDad.borrowBook();
